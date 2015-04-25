@@ -9,5 +9,5 @@ Binaries can be downloaded at: https://bintray.com/petermylemans/generic/easytra
 
 The latest can be found at:
 
- - [easytranscript-pedal-1.0-x86.exe](https://dl.bintray.com/petermylemans/generic/#easytranscript-pedal-1.0-x86.exe) for 32-bit computers
- - [easytranscript-pedal-1.0-x64.exe](https://dl.bintray.com/petermylemans/generic/#easytranscript-pedal-1.0-x64.exe) for 64-bit computers
+ - [easytranscript-pedal-1.0-x86.exe](https://dl.bintray.com/petermylemans/generic/easytranscript-pedal-1.0-x86.exe) for 32-bit computers
+ - [easytranscript-pedal-1.0-x64.exe](https://dl.bintray.com/petermylemans/generic/easytranscript-pedal-1.0-x64.exe) for 64-bit computers
